@@ -1,0 +1,125 @@
+Q1.
+Minutes of Meeting (MoM) Format
+Meeting Title: Requirement Gathering for Travel Management System
+Date: [Insert Date]
+Time: [Insert Time]
+Location: [Insert Location]
+Attendees: [List Participants]
+
+Agenda
+Introductions
+Overview of Current Travel Management Practices
+Discussion of Key Requirements
+Next Steps
+Discussion Points
+Current Practices: [Summarize current travel management processes discussed]
+User Roles: [List key user roles and their functions]
+Travel Request Process: [Key requirements and challenges discussed]
+Booking and Expense Management: [Requirements gathered for both processes]
+Reporting Needs: [Specific reporting requirements mentioned]
+Compliance: [Policies to be integrated into the system]
+Integration Needs: [Systems to integrate with]
+Action Items
+[Action Item 1]: [Responsible Person] – Due by [Due Date]
+[Action Item 2]: [Responsible Person] – Due by [Due Date]
+Requirement Gathering Report
+Project Title: Travel Management System
+Prepared By: [Your Name]
+Date: [Insert Date]
+
+1. Introduction
+Brief description of the purpose of the report and the project.
+2. Objectives
+State the objectives of the requirement gathering activity.
+3. Key Findings
+User Roles: [Summary of identified user roles]
+Travel Request Process: [Key elements required in the request process]
+Booking and Expense Management: [Summary of requirements]
+Reporting Needs: [Overview of desired reports]
+Compliance and Policies: [Brief overview of policies to be integrated]
+4. Next Steps
+Outline the next steps for the project, including further meetings, documentation, and timelines.
+
+
+Q2.
+Software Requirements Specification (SRS)
+Project Title: Travel Management System
+Prepared By: [Your Name]
+Date: [Insert Date]
+Version: 1.0
+
+1. Introduction
+1.1 Purpose
+To outline the requirements for a Travel Management System that streamlines travel requests, bookings, and expense management.
+
+1.2 Scope
+The system will manage employee travel, integrate with booking platforms, and track expenses while ensuring compliance with company policies.
+
+2. Overall Description
+2.1 Product Perspective
+Web-based application accessible via modern browsers, integrating with existing HR and finance systems.
+
+2.2 User Classes
+Travelers: Submit requests and manage itineraries.
+Coordinators: Oversee arrangements and approvals.
+Finance: Manage budgets and expenses.
+Managers: Approve requests.
+3. Specific Requirements
+3.1 Functional Requirements
+User Registration/Login: Secure user accounts.
+Travel Requests: Submission and approval workflow.
+Booking Integration: Link with third-party APIs for travel bookings.
+Expense Management: Submission and reporting of travel-related expenses.
+Reporting: Generate various travel-related reports.
+3.2 Non-Functional Requirements
+Performance: Support 500 simultaneous users.
+Security: Encrypt user data and implement secure login.
+Usability: Intuitive interface with minimal training required.
+4. External Interfaces
+4.1 User Interfaces
+Web-based UI with dashboards, forms, and reporting features.
+
+4.2 Software Interfaces
+Integration with HR systems, payment gateways, and booking platforms.
+
+Q3. 
+Software Development Process Model Report
+Selected Process Model: Agile Development Model
+Overview
+The Agile Development Model is a flexible and iterative approach that emphasizes collaboration, customer feedback, and rapid delivery of functional software. This model is particularly suitable for projects where requirements may evolve, such as in the development of a Travel Management System.
+
+Key Features
+Iterative Development: Work is divided into small, manageable units called sprints (typically 2-4 weeks), allowing for regular reassessment and adaptation of plans.
+Customer Collaboration: Regular meetings with stakeholders ensure that the product meets user needs and expectations.
+Continuous Improvement: Teams reflect on their performance after each sprint and make adjustments for future iterations.
+Advantages
+Flexibility: Accommodates changes in requirements even late in the development process.
+Faster Time to Market: Prioritizes delivering a minimum viable product (MVP) quickly.
+Enhanced Quality: Regular testing and feedback cycles help identify and resolve issues early.
+Disadvantages
+Less Predictability: Time and cost estimates can be challenging to maintain due to the iterative nature.
+Requires Strong Collaboration: Success depends on effective communication and collaboration among team members and stakeholders.
+Conclusion
+The Agile Development Model is ideal for the Travel Management System project due to its adaptability to changing requirements and focus on user feedback. This approach will enable the team to deliver a high-quality product that aligns closely with user needs.
+
+Project Plan for Travel Management System
+Project Overview
+Project Name: Travel Management System
+Duration: 6 months
+Team Size: 5 members
+Project Phases and Timeline
+Phase	Activities	Duration	Start Date	End Date
+1. Planning	Requirement gathering, initial planning	3 weeks	Week 1	Week 3
+2. Design	UI/UX design, architecture planning	4 weeks	Week 4	Week 7
+3. Development	Sprint 1: Core functionalities	4 weeks	Week 8	Week 11
+Sprint 2: Booking integration	4 weeks	Week 12	Week 15
+Sprint 3: Expense management	4 weeks	Week 16	Week 19
+4. Testing	Integration testing, user acceptance testing	3 weeks	Week 20	Week 22
+5. Deployment	Launching the system, training users	2 weeks	Week 23	Week 24
+6. Maintenance	Ongoing support and updates	Ongoing	Week 25	Ongoing
+
+\
+Q4
+draw system flow chart, decision tree and decision table of any one process of your software idea.
+
+Q5. 
